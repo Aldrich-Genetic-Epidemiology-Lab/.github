@@ -4,7 +4,7 @@
 The mission of the Aldrich Lab is to understand determinants of lung cancer to ultimately drive equity in health and healthcare outcomes for patients while training the next generation of scientists. 
 
 ## Code
-We would like this GitHub organization as a place to **onboard new students and staff**, and to **store, share, and contribute** to code
+We would like to use this GitHub organization as a place to **onboard new students and staff**, and to **store, share, and contribute** to code
 
 ### Onboarding
 Welcome! Navigate to this repository to get started: 
