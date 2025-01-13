@@ -7,7 +7,7 @@ The mission of the Aldrich Lab is to understand determinants of lung cancer to u
 We would like to use this GitHub organization as a place to **onboard new students and staff**, and to **store, share, and contribute** to code
 
 ### Onboarding
-Welcome! Navigate to this repository to get started: 
+Welcome! Navigate to this repository to get started: https://github.com/Aldrich-Genetic-Epidemiology-Lab/Onboarding
 
 ### Storing prexisting code
 Have code you want to add to our organization? Follow these instructions to **create and add to** a new repository
