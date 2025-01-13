@@ -16,8 +16,8 @@ Have code you want to add to our organization? Follow these instructions to **cr
 
 ### Cloning
 We would like to have copies of frequently used repositories and repositories stored on other accounts. To clone a repository to our organization, follow these instructions
-- https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository to clone a repository
+- Clone a repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
 
 ### Sharing
 Interested in sharing code with a collaborator? While we will not make our repositories public, you can download files from any of our repositories. Follow these intructions:
-- https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github
+- Download files: https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github
