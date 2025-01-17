@@ -8,6 +8,7 @@ We would like to use this GitHub organization as a place to **onboard new studen
 
 ### Onboarding
 Welcome! Navigate to this repository to get started: https://github.com/Aldrich-Genetic-Epidemiology-Lab/Onboarding
+This repository also includes more information on how to use GitHub!
 
 ### Storing prexisting code
 Have code you want to add to our organization? Follow these instructions to **create and add to** a new repository
