@@ -1,5 +1,7 @@
 # Getting Started with GitHub
 
+### This page was downloaded from https://github.com/Climate-CAFE/Climate-CAFE.github.io/blob/main/handbook/github.md
+
 GitHub is a user-friendly platform that allows you to easily share your code with others, which is becoming a typical requirement for research publications. Even if you're not interested in the technical aspects of code development, GitHub provides a straightforward way to create repositories where you can store your research scripts. This tutorial will guide you through the basics of setting up a repository on GitHub, uploading your files, and sharing your work with collaborators or the public. 
 
 Following the [Basic GitHub Introduction](basic-github-introduction) section below, you will be able to upload your code without needing to install any software on your machine or use the command line. For those interested in using the command line interface, refer to the [Cloning Repositories and Pushing Code](cloning-repositories-and-pushing-code) section for basic Git commands.
